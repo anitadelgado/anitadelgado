@@ -34,45 +34,45 @@
 <h3 align="left">My professional certificates:</h3>
 
 <div align="center">
-  <img  src="https://github.com/anidragonfly/anidragonfly/blob/main/certificado-de-soporte-de-ti-de-google%20(2).png"
+  <img  src="https://github.com/anitadelgado/anitadelgado/blob/main/certificado-de-soporte-de-ti-de-google%20(2).png"
        alt="ti" /></a>
-  <img  src="https://github.com/anidragonfly/anidragonfly/blob/main/google-it-automation-certificate%20(4).png"
+  <img  src="https://github.com/anitadelgado/anitadelgado/blob/main/google-it-automation-certificate%20(4).png"
        alt="py" /></a>
 </p>
 
 <h3 align="left">Data sciences skills:</h3>
 
 <div align="center">
-  <img  src="https://github.com/anidragonfly/anidragonfly/blob/main/python-for-data-science.png"
+  <img  src="https://github.com/anitadelgado/anitadelgado/blob/main/python-for-data-science.png"
        alt="ti" /></a>
-  <img  src="https://github.com/anidragonfly/anidragonfly/blob/main/machine-learning-with-python-level-1.png"
+  <img  src="https://github.com/anitadelgado/anitadelgado/blob/main/machine-learning-with-python-level-1.png"
        alt="py" /></a>
-  <img  src="https://github.com/anidragonfly/anidragonfly/blob/main/data-science-foundations-level-2-v2%20(1).png"
+  <img  src="https://github.com/anitadelgado/anitadelgado/blob/main/data-science-foundations-level-2-v2%20(1).png"
        alt="py" /></a>
-  <img  src="https://github.com/anidragonfly/anidragonfly/blob/main/applied-data-science-with-python-level-2.png"
+  <img  src="https://github.com/anitadelgado/anitadelgado/blob/main/applied-data-science-with-python-level-2.png"
        alt="py" /></a>
-  <img  src="https://github.com/anidragonfly/anidragonfly/blob/main/data-analysis-using-python.png"
+  <img  src="https://github.com/anitadelgado/anitadelgado/blob/main/data-analysis-using-python.png"
        alt="py" /></a>
-  <img  src="https://github.com/anidragonfly/anidragonfly/blob/main/data-visualization-using-python.png"
+  <img  src="https://github.com/anitadelgado/anitadelgado/blob/main/data-visualization-using-python.png"
        alt="py" /></a>
-  <img  src="https://github.com/anidragonfly/anidragonfly/blob/main/relational-databases-and-sql%20(2).png"
+  <img  src="https://github.com/anitadelgado/anitadelgado/blob/main/relational-databases-and-sql%20(2).png"
        alt="py" /></a>
 </p>
 
 <h3 align="left">Other skills:</h3>
 
 <div align="center">
-  <img  src="https://github.com/anidragonfly/anidragonfly/blob/main/data-analytics-essentials%20(1).png"
+  <img  src="https://github.com/anitadelgado/anitadelgado/blob/main/data-analytics-essentials%20(1).png"
        alt="py" /></a>
-  <img  src="https://github.com/anidragonfly/anidragonfly/blob/main/data-fundamentals%20(1).png"
+  <img  src="https://github.com/anitadelgado/anitadelgado/blob/main/data-fundamentals%20(1).png"
        alt="ti" /></a>
-  <img  src="https://github.com/anidragonfly/anidragonfly/blob/main/agile-explorer (1).png"
+  <img  src="https://github.com/anitadelgado/anitadelgado/blob/main/agile-explorer%20(1).png"
        alt="py" /></a>
-  <img  src="https://github.com/anidragonfly/anidragonfly/blob/main/project-management-fundamentals%20(1).png"
+  <img  src="https://github.com/anitadelgado/anitadelgado/blob/main/project-management-fundamentals%20(1).png"
        alt="py" /></a>
-  <img  src="https://github.com/anidragonfly/anidragonfly/blob/main/explore-emerging-tech%20(1).png"
+  <img  src="https://github.com/anitadelgado/anitadelgado/blob/main/explore-emerging-tech%20(1).png"
        alt="py" /></a>
-  <img  src="https://github.com/anidragonfly/anidragonfly/blob/main/working-in-a-digital-world-professional-skills%20(1).png"
+  <img  src="https://github.com/anitadelgado/anitadelgado/blob/main/working-in-a-digital-world-professional-skills%20(1).png"
        alt="py" /></a>
 </p>
 
