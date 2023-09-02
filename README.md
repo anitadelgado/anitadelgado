@@ -14,7 +14,7 @@
   
 - 🔭 I’ve finished [Bootcamp Python Data Analytics](https://github.com/anidragonfly/anidragonfly/blob/main/TITULO%20NTT.pdf)
 
-- 🌱 I’m currently learning **Google Data Analytics Professional Certificate**
+- 🌱 I’m currently learning [**Google Data Analytics Professional Certificate**](https://github.com/anitadelgado/google_data_analytics.git)
 
 - 💬 Ask me about **Python, Python automatization, SQL, Power Bi,**
 
