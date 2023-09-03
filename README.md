@@ -75,5 +75,13 @@
   <img  src="https://github.com/anitadelgado/anitadelgado/blob/main/working-in-a-digital-world-professional-skills%20(1).png"
        alt="py" /></a>
 </p>
+  
+<h3 align="left">Github Analytics:</h3>
+<p align="center">
+<a href="https://github.com/anitadelgado">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anitadelgado&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Anitadelgado&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anidragonfly&label=Profile%20views&color=0e75b6&style=flat" alt="anidragonfly" /> </p>
