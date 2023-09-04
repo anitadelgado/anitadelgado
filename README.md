@@ -90,7 +90,7 @@
 
 ### Everyday:
 
-[![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github&logoColor=lightgrey&link=https://github.com/anidragonfly)](https://github.com/anidragonfly)&nbsp;
+[![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github&logoColor=lightgrey&link=https://github.com/anitadelgado)](https://github.com/anitadelgado)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/-VSCODE-05122A?style=flat&logo=Visual-Studio-Code&logoColor=007ACC&link=https://code.visualstudio.com/)&nbsp;
 ![Colab](https://img.shields.io/badge/-Colab-05122A?style=flat&logo=google-colab)&nbsp;
 ![Jupiter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)&nbsp;
