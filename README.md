@@ -57,6 +57,9 @@
        alt="py" /></a>
   <img  src="https://github.com/anitadelgado/anitadelgado/blob/main/relational-databases-and-sql%20(2).png"
        alt="py" /></a>
+  <img  src="https://github.com/anitadelgado/anitadelgado/blob/main/Learn_to_code_for_data_analysis%20(3).png"
+       alt="py" /></a>
+  
 </p>
 
 <h3 align="left">Other skills:</h3>
