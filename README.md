@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning [**Google Data Analytics Professional Certificate**](https://github.com/anitadelgado/google_data_analytics.git)
 
-- 💬 Ask me about **Python, Python automatization, SQL, Power Bi,**
+- 💬 Ask me about **Python, Python automatization, SQL, BigQuery, Mongo DB, Pandas, Mathplotlib, Power Bi, Tableau **
 
 - 📫 How to reach me **a.santacruzdelgado@gmail.com**
 
@@ -59,6 +59,9 @@
        alt="py" /></a>
   <img  src="https://github.com/anitadelgado/anitadelgado/blob/main/Learn_to_code_for_data_analysis%20(3).png"
        alt="py" /></a>
+  <img  src="https://github.com/anitadelgado/anitadelgado/blob/main/1694417144632.png"
+       alt="py" /></a>
+
   
 </p>
 
