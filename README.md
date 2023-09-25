@@ -55,12 +55,15 @@
        alt="py" /></a>
   <img  src="https://github.com/anitadelgado/anitadelgado/blob/main/data-visualization-using-python.png"
        alt="py" /></a>
+  <img  src="https://github.com/anitadelgado/anitadelgado/blob/main/Statistics_101_-_CC.png"
+       alt="py" /></a>
   <img  src="https://github.com/anitadelgado/anitadelgado/blob/main/relational-databases-and-sql%20(2).png"
        alt="py" /></a>
   <img  src="https://github.com/anitadelgado/anitadelgado/blob/main/Learn_to_code_for_data_analysis%20(3).png"
        alt="py" /></a>
   <img  src="https://github.com/anitadelgado/anitadelgado/blob/main/1694417144632.png"
        alt="py" /></a>
+
 
   
 </p>
