@@ -63,7 +63,8 @@
        alt="py" /></a>
   <img  src="https://github.com/anitadelgado/anitadelgado/blob/main/1694417144632.png"
        alt="py" /></a>
-
+  <img  src="https://github.com/anitadelgado/anitadelgado/blob/main/Data_Analytics_Essentials%20(1).png"
+       alt="py" /></a>
 
   
 </p>
