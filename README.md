@@ -109,6 +109,7 @@
 ![Jupiter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)&nbsp;
 ![Anaconda](https://img.shields.io/badge/-Anaconda-05122A?style=flat&logo=anaconda)&nbsp;
 ![Kaggle](https://img.shields.io/badge/-Kaggle-05122A?style=flat&logo=Kaggle&logoColor=yellow)
+![Excel](https://img.shields.io/badge/-Excel-05122A?style=flat&logo=Excel&logoColor=yellow)
 
 ### Data Analysis:
 
@@ -119,6 +120,7 @@
 ![Seaborn](https://img.shields.io/badge/-Seaborn-05122A?style=flat&logo=Seaborn&logoColor=white)&nbsp;
 ![PowerBI](https://img.shields.io/badge/-Power_BI-05122A?style=flat&logo=power-bi&logoColor=yellow)
 ![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=Tableau&logoColor=yellow)
+![Jamovi](https://img.shields.io/badge/-Jamovi-05122A?style=flat&logo=Jamovi&logoColor=yellow)
 
 ### Databases:
 
