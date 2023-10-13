@@ -124,6 +124,8 @@
 ![PowerBI](https://img.shields.io/badge/-Power_BI-05122A?style=flat&logo=power-bi&logoColor=yellow)
 ![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=Tableau&logoColor=yellow)
 ![Jamovi](https://img.shields.io/badge/-Jamovi-05122A?style=flat&logo=Jamovi&logoColor=yellow)
+![Looker](https://img.shields.io/badge/-looker-05122A?style=flat&logo=looker&logoColor=yellow)
+![Cognos](https://img.shields.io/badge/-cognos-05122A?style=flat&logo=cognos&logoColor=yellow)
 
 ### Databases:
 
@@ -132,6 +134,7 @@
 ![NoSQL](https://img.shields.io/badge/-NoSQL-05122A?style=flat&logo=NoSQL&logoColor=lightgreen)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongoDB&logoColor=lightgreen)&nbsp;
 ![BigQuery](https://img.shields.io/badge/-BigQuery-05122A?style=flat&logo=BigQuery&logoColor=lightgreen)&nbsp;
+![LiveSQL](https://img.shields.io/badge/-LiveSQL-05122A?style=flat&logo=LiveSQL&logoColor=lightgreen)&nbsp;
 
 <!-- ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
