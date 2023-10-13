@@ -65,11 +65,14 @@
        alt="py" /></a>
   <img  src="https://github.com/anitadelgado/anitadelgado/blob/main/Data_Analytics_Essentials%20(1).png"
        alt="py" /></a>
-  <img  src="https://github.com/anitadelgado/anitadelgado/blob/main/Data_Analytics_Essentials%20(1).png"
+  <img  src="https://github.com/anitadelgado/anitadelgado/blob/main/Cognitive_Class_-_DB_and_SQL_for_Data_Sci%20(1).png"
        alt="py" /></a>
-    <img  src="https://github.com/anitadelgado/anitadelgado/blob/main/Data_Visualization___Dashboard_Essentials.png"
+<img  src="https://github.com/anitadelgado/anitadelgado/blob/main/Data_Visualization___Dashboard_Essentials.png"
        alt="py" /></a>
-  
+<img  src="https://github.com/anitadelgado/anitadelgado/blob/main/Excel_Essentials_for_Data_Analytics.png"
+       alt="py" /></a>
+
+
 </p>
 
 <h3 align="left">Other skills:</h3>
