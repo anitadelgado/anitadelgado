@@ -71,7 +71,8 @@
        alt="py" /></a>
 <img  src="https://github.com/anitadelgado/anitadelgado/blob/main/Excel_Essentials_for_Data_Analytics.png"
        alt="py" /></a>
-
+<img  src="https://github.com/anitadelgado/anitadelgado/blob/main/Cognitive_Class_-_Data_Visual_w_Python%20(1).png"
+       alt="py" /></a>
 
 </p>
 
