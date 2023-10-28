@@ -128,6 +128,10 @@
 ![Looker](https://img.shields.io/badge/-looker-05122A?style=flat&logo=looker&logoColor=yellow)
 ![Cognos](https://img.shields.io/badge/-cognos-05122A?style=flat&logo=cognos&logoColor=yellow)
 
+### Machine Learning:
+
+![Tensorflow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=sql&logoColor=FFA611)&nbsp;
+
 ### Databases:
 
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sql&logoColor=FFA611)&nbsp;
