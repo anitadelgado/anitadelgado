@@ -38,6 +38,9 @@
        alt="ti" /></a>
   <img  src="https://github.com/anitadelgado/anitadelgado/blob/main/google-it-automation-certificate%20(4).png"
        alt="py" /></a>
+  <img  src="https://github.com/anitadelgado/anitadelgado/blob/main/Professional_Certificate_-_Data_Analyst%20(1).png"
+       alt="py" /></a>
+  
 </p>
 
 <h3 align="left">[Data sciences skills](https://www.credly.com/earner/earned):</h3>
@@ -78,6 +81,8 @@
 <img  src="https://github.com/anitadelgado/anitadelgado/blob/main/Python_Project_for_Data_Science.png"
        alt="py" /></a>
 <img  src="https://github.com/anitadelgado/anitadelgado/blob/main/Python_for_Data_Sci_and_AI_Foundational.png"
+       alt="py" /></a>
+<img  src="https://github.com/anitadelgado/anitadelgado/blob/main/Data_Analyst_Capstone%20(1).png"
        alt="py" /></a>
 <img  src="https://github.com/anitadelgado/anitadelgado/blob/main/Deep_Learning_Using_TensorFlow.png"
        alt="py" /></a>
