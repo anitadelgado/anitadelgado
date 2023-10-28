@@ -73,6 +73,15 @@
        alt="py" /></a>
 <img  src="https://github.com/anitadelgado/anitadelgado/blob/main/Cognitive_Class_-_Data_Visual_w_Python%20(1).png"
        alt="py" /></a>
+<img  src="https://github.com/anitadelgado/anitadelgado/blob/main/Cognitive_Class_-_Data_Analysis_w_Python.png"
+       alt="py" /></a>
+<img  src="https://github.com/anitadelgado/anitadelgado/blob/main/Python_Project_for_Data_Science.png"
+       alt="py" /></a>
+<img  src="https://github.com/anitadelgado/anitadelgado/blob/main/Python_for_Data_Sci_and_AI_Foundational.png"
+       alt="py" /></a>
+<img  src="https://github.com/anitadelgado/anitadelgado/blob/main/Deep_Learning_Using_TensorFlow.png"
+       alt="py" /></a>
+
 
 </p>
 
