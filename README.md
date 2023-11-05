@@ -43,7 +43,7 @@
   
 </p>
 
-<h3 align="left">[Data sciences skills](https://www.credly.com/earner/earned):</h3>
+<h3 align="left">[Data sciences skills](https://www.credly.com/users/ana-delgado.0ee4eb9f):</h3>
 
 <div align="center">
   <img  src="https://github.com/anitadelgado/anitadelgado/blob/main/python-for-data-science.png"
